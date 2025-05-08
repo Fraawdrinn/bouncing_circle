@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "*.dbclient-js": "javascript",
+    "*.py": "python",
+    "cmath": "cpp",
+    "complex": "cpp",
+    "random": "cpp",
+    "iterator": "cpp"
+  }
+}
